@@ -1,0 +1,32 @@
+Climate Change: Science, Impact, and Solutions
+
+Section 1: The Science of Climate Change
+Climate change refers to long-term shifts in global temperatures and weather patterns. While some climate variation is natural, scientific evidence overwhelmingly shows that human activities — primarily burning fossil fuels — have been the dominant driver of climate change since the mid-20th century.
+
+The greenhouse effect is the mechanism by which certain gases (water vapour, carbon dioxide, methane, nitrous oxide) trap heat from the sun in the Earth's atmosphere. Without this natural greenhouse effect, Earth's average surface temperature would be approximately -18°C instead of the current +15°C.
+
+Since the Industrial Revolution (circa 1750), atmospheric CO₂ concentrations have risen from approximately 280 parts per million (ppm) to over 420 ppm in 2023 — the highest level in at least 800,000 years, as confirmed by Antarctic ice core data. The global average temperature has increased by approximately 1.1°C above pre-industrial levels.
+
+Section 2: Observed Impacts
+The impacts of climate change are already being observed worldwide. Arctic sea ice is declining at a rate of approximately 13% per decade. Global sea levels have risen by about 20 cm since 1900, with the rate accelerating to around 3.7 mm per year. Extreme weather events — including heatwaves, heavy precipitation, and tropical cyclones — are becoming more frequent and intense.
+
+Coral reefs are highly sensitive to temperature changes. Mass bleaching events, where corals expel the symbiotic algae that give them colour and nutrition, have become more frequent. The Great Barrier Reef in Australia experienced major bleaching events in 2016, 2017, 2020, and 2022.
+
+Glaciers worldwide are retreating. The Himalayan glaciers, often called the "Third Pole", supply freshwater to nearly 2 billion people in Asia. Their accelerated melting poses serious risks to water security, agriculture, and hydroelectric power in countries including India, China, Pakistan, Nepal, and Bangladesh.
+
+Section 3: The IPCC and Scientific Consensus
+The Intergovernmental Panel on Climate Change (IPCC) was established in 1988 by the United Nations Environment Programme and the World Meteorological Organization. It assesses scientific research on climate change and publishes major Assessment Reports approximately every 5-7 years.
+
+The IPCC Sixth Assessment Report (AR6), published between 2021 and 2022, concluded with "unequivocal" certainty that human influence has warmed the climate. It projected that under current policies, global warming is likely to reach 1.5°C between 2030 and 2052. Limiting warming to 1.5°C instead of 2°C would significantly reduce the risks of extreme events, sea level rise, and biodiversity loss.
+
+Section 4: Mitigation Strategies
+Mitigation refers to efforts to reduce greenhouse gas emissions. The energy sector is the largest source of global emissions (~73% of total). Transitioning to renewable energy — solar, wind, hydroelectric, and nuclear — is central to decarbonisation.
+
+Solar photovoltaic (PV) costs have fallen by over 90% since 2010, making solar the cheapest source of electricity in history in many regions. Wind power capacity has also grown rapidly. Battery storage technology is essential for managing the intermittency of renewables.
+
+Carbon pricing mechanisms, including carbon taxes and cap-and-trade systems, are used by over 70 jurisdictions globally to put a price on emissions. Reforestation and afforestation sequester carbon in biomass and soils. Carbon capture and storage (CCS) technology captures CO₂ from industrial processes and stores it underground.
+
+Section 5: Climate Agreements and Policy
+The Paris Agreement (2015) is a landmark international treaty in which 196 countries committed to limiting global warming to well below 2°C above pre-industrial levels, aiming for 1.5°C. Countries submit Nationally Determined Contributions (NDCs) outlining their emissions reduction plans, reviewed every five years.
+
+As of 2024, over 130 countries have pledged to reach net-zero emissions by mid-century. The European Union targets net-zero by 2050, China by 2060, and India by 2070. However, current NDCs are still insufficient to meet the 1.5°C goal — independent analyses suggest they put the world on track for approximately 2.5°C of warming by 2100.

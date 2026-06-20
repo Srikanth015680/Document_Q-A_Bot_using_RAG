@@ -1,0 +1,32 @@
+Global Health and Modern Medicine: Advances and Challenges
+
+Section 1: The Burden of Global Disease
+Global health encompasses the health of populations across national boundaries and focuses on improving health equity worldwide. The World Health Organization (WHO) is the primary international body coordinating global health efforts, headquartered in Geneva, Switzerland, with 194 member states.
+
+Non-communicable diseases (NCDs) — including cardiovascular disease, cancer, diabetes, and chronic respiratory diseases — are the leading cause of death globally, responsible for approximately 74% of all deaths (41 million per year). Low- and middle-income countries bear a disproportionate burden, accounting for 77% of NCD deaths.
+
+Cardiovascular disease is the single leading cause of death globally, killing approximately 17.9 million people per year. Risk factors include high blood pressure, smoking, diabetes, obesity, physical inactivity, and unhealthy diet. Statins, ACE inhibitors, and beta-blockers have significantly reduced mortality from heart disease in high-income countries.
+
+Section 2: Infectious Diseases and Pandemics
+Despite enormous progress, infectious diseases remain a major global health threat. HIV/AIDS has killed approximately 40 million people since the epidemic began in the early 1980s. Antiretroviral therapy (ART), developed in the mid-1990s, transformed HIV from a death sentence to a manageable chronic condition. As of 2023, approximately 39 million people are living with HIV globally.
+
+Malaria, transmitted by Anopheles mosquitoes, killed approximately 608,000 people in 2022, predominantly children under five in sub-Saharan Africa. The RTS,S/AS01 vaccine (Mosquirix) was approved by the WHO in 2021 — the first malaria vaccine to pass Phase 3 clinical trials — and is being deployed across Africa. The newer R21/Matrix-M vaccine showed 75% efficacy in Phase 3 trials.
+
+The COVID-19 pandemic, caused by SARS-CoV-2, was declared a Public Health Emergency of International Concern (PHEIC) by the WHO in January 2020 and a pandemic in March 2020. The development of effective vaccines in under 12 months — including mRNA-based vaccines from Pfizer-BioNTech and Moderna — represented an unprecedented scientific achievement. By mid-2023, approximately 13.5 billion COVID-19 vaccine doses had been administered worldwide.
+
+Section 3: Pharmaceutical Innovation
+Drug discovery and development is a lengthy and expensive process. On average, bringing a new drug to market takes 10-15 years and costs approximately $2.6 billion (Tufts Centre for the Study of Drug Development, 2016). The process involves target identification, lead compound discovery, preclinical testing, and three phases of clinical trials before regulatory approval.
+
+mRNA technology, pioneered by Katalin Karikó and Drew Weissman (who shared the 2023 Nobel Prize in Physiology or Medicine), has opened new frontiers beyond COVID-19 vaccines. mRNA therapeutics are being developed for influenza, HIV, cancer immunotherapy, and rare genetic disorders. Unlike traditional vaccines, mRNA vaccines can be designed and manufactured very rapidly.
+
+CRISPR-Cas9 gene editing, developed by Jennifer Doudna and Emmanuelle Charpentier (2020 Nobel Prize in Chemistry), allows precise editing of DNA sequences. In December 2023, the FDA approved the first CRISPR-based therapy — Casgevy (exa-cel) — for sickle cell disease and beta-thalassemia, marking a landmark moment in medicine.
+
+Section 4: Mental Health
+Mental health disorders are among the leading causes of disability worldwide. Depression and anxiety are the most prevalent conditions, affecting approximately 280 million and 301 million people globally, respectively. Mental health disorders account for 1 in 6 years lived with disability (YLDs) globally.
+
+Treatment options include psychotherapy (cognitive behavioural therapy, CBT, being the most evidence-based), pharmacotherapy (SSRIs, SNRIs, antipsychotics), and newer approaches such as transcranial magnetic stimulation (TMS) and ketamine infusion therapy for treatment-resistant depression. Digital mental health interventions — apps, online therapy platforms, AI-powered chatbots — are expanding access to care.
+
+Section 5: Universal Health Coverage
+Universal Health Coverage (UHC) means that all people have access to the health services they need without suffering financial hardship. As of 2023, at least half the world's population lacks access to essential health services. The SDG target (Goal 3.8) is to achieve UHC by 2030.
+
+Countries with comprehensive public health systems — such as the UK's National Health Service (NHS), Canada's Medicare, and Germany's Bismarckian statutory health insurance — consistently achieve better health outcomes per capita than the United States, which spends more on healthcare (18.3% of GDP) than any other country but has comparatively poor outcomes on life expectancy and infant mortality.

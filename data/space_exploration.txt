@@ -1,0 +1,32 @@
+Space Exploration: History, Science, and the Future
+
+Part 1: The Space Race and Early Milestones
+The modern era of space exploration began on October 4, 1957, when the Soviet Union launched Sputnik 1, the world's first artificial satellite, into low Earth orbit. The small satellite's radio beeps, detectable by amateur radio enthusiasts worldwide, triggered the space race between the United States and the Soviet Union.
+
+On April 12, 1961, Soviet cosmonaut Yuri Gagarin became the first human in space, completing a single orbit of Earth aboard Vostok 1 in 108 minutes. Less than a month later, American astronaut Alan Shepard made a 15-minute suborbital flight aboard Freedom 7. President John F. Kennedy then set the ambitious goal of landing humans on the Moon before the end of the decade.
+
+The Apollo program achieved this goal on July 20, 1969, when astronauts Neil Armstrong and Buzz Aldrin landed on the Moon during Apollo 11. Armstrong's famous words, "That's one small step for man, one giant leap for mankind," were broadcast live to an estimated 650 million viewers worldwide. A total of 12 Apollo astronauts walked on the lunar surface between 1969 and 1972.
+
+Part 2: Robotic Exploration and Scientific Discoveries
+Robotic spacecraft have dramatically expanded our knowledge of the solar system. NASA's Voyager 1 and Voyager 2 probes, launched in 1977, conducted the Grand Tour of the outer solar system. Voyager 1 entered interstellar space in 2012, becoming the first human-made object to leave the solar system. It continues transmitting data from over 23 billion kilometres away.
+
+Mars has been explored by a fleet of orbiters, landers, and rovers. NASA's Perseverance rover, which landed in Jezero Crater in February 2021, is searching for signs of ancient microbial life and collecting rock samples for potential return to Earth. The Ingenuity helicopter, deployed from Perseverance, made history as the first powered flight on another planet.
+
+The Hubble Space Telescope, launched in 1990, has revolutionised astronomy by capturing images of extraordinary depth and clarity. Key discoveries include measuring the expansion rate of the universe (the Hubble constant), confirming the existence of supermassive black holes at the centres of galaxies, and observing galaxies formed less than 1 billion years after the Big Bang.
+
+Part 3: The International Space Station
+The International Space Station (ISS), a collaborative project involving NASA, Roscosmos, ESA, JAXA, and CSA, has been continuously inhabited since November 2, 2000. It orbits at an altitude of approximately 408 km, completing about 15.5 orbits per day. The ISS serves as a microgravity research laboratory where experiments in biology, physics, astronomy, and meteorology are conducted.
+
+Research aboard the ISS has contributed to advances in materials science, water purification technology, telemedicine, and understanding of long-duration spaceflight effects on the human body. Astronauts experience bone density loss, muscle atrophy, and vision problems due to fluid shifts in microgravity — challenges that must be solved before crewed missions to Mars.
+
+Part 4: The Commercial Space Revolution
+The early 21st century has seen the rise of private spaceflight. SpaceX, founded by Elon Musk in 2002, revolutionised the industry by developing reusable rocket technology. The Falcon 9 rocket's first stage routinely returns to land vertically, dramatically reducing launch costs from approximately $10,000 per kg to around $2,700 per kg to low Earth orbit.
+
+SpaceX's Crew Dragon became the first commercial spacecraft to carry astronauts to the ISS, transporting NASA astronauts in May 2020. Blue Origin, founded by Jeff Bezos, operates the New Shepard suborbital vehicle for space tourism. Virgin Galactic completed its first commercial spaceflight in 2023, carrying tourists to the edge of space.
+
+Artemis Program: NASA's Artemis program aims to return humans to the Moon and establish a sustainable lunar presence by the late 2020s. The Artemis I mission (November 2022) was an uncrewed test of the Space Launch System (SLS) rocket and Orion spacecraft. Artemis II plans to fly astronauts around the Moon, and Artemis III aims to land the first woman and first person of colour on the lunar surface.
+
+Part 5: The Search for Extraterrestrial Life
+The discovery of exoplanets — planets orbiting stars other than the Sun — has transformed the search for extraterrestrial life. NASA's Kepler Space Telescope (2009–2018) discovered over 2,600 confirmed exoplanets. The James Webb Space Telescope (JWST), launched December 25, 2021, can analyse the atmospheres of exoplanets for biosignatures such as oxygen, methane, and water vapour.
+
+Within our solar system, several moons are considered prime candidates for harbouring life: Europa (Jupiter's moon) has a subsurface liquid water ocean beneath its icy crust; Enceladus (Saturn's moon) ejects water vapour plumes containing organic compounds; Titan (Saturn's moon) has lakes of liquid methane and ethane. Future missions are planned to explore these destinations.
