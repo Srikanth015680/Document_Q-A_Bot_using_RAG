@@ -1,7 +1,3 @@
-
-
-
-import os
 import chromadb
 from google import genai
 from dotenv import load_dotenv
@@ -31,21 +27,24 @@ Rules:
 5. Keep answers concise and accurate.
 """
 
-_client_cache = {}
+MAX_DISTANCE = 0.7
 
-MAX_DISTANCE: float = 0.7
+_client_cache = {}
 
 
 def _get_collection(db_path: str = DB_DIR):
     if db_path not in _client_cache:
-        if not os.path.isdir(db_path):
-            raise RuntimeError(
-                f"Vector database not found at '{db_path}'.\n"
-                "Run ingestion first: python -m src.ingest"
-            )
-
         client = chromadb.PersistentClient(path=db_path)
-        collection = client.get_collection(name=COLLECTION_NAME)
+
+        try:
+            collection = client.get_collection(
+                name=COLLECTION_NAME
+            )
+        except Exception as e:
+            raise RuntimeError(
+                f"ChromaDB collection '{COLLECTION_NAME}' not found. "
+                f"Database may not have been created yet. Error: {e}"
+            )
 
         _client_cache[db_path] = collection
 
@@ -64,7 +63,7 @@ def embed_query(text: str):
 def query_rag_pipeline(
     user_query: str,
     db_path: str = DB_DIR,
-    k: int = TOP_K
+    k: int = TOP_K,
 ):
     collection = _get_collection(db_path)
 
@@ -87,34 +86,35 @@ def query_rag_pipeline(
 
     if not filtered:
         return {
-            "answer":
-            "I am sorry, but the provided documents do not contain the answer to your question.",
+            "answer": (
+                "I am sorry, but the provided documents "
+                "do not contain the answer to your question."
+            ),
             "citations": [],
             "raw_chunks": [],
-            "sources": []
+            "sources": [],
         }
 
     context_blocks = []
     citations = []
-    sources = []
     raw_chunks = []
+    sources = []
 
     for doc, meta, dist in filtered:
         source = meta.get("source", "unknown")
         page = meta.get("page", "?")
 
-        citation = f"{source}, Page {page}"
+        citations.append(f"{source}, Page {page}")
 
         context_blocks.append(
             f"[Source: {source}, Page: {page}]\n{doc}"
         )
 
-        citations.append(citation)
         raw_chunks.append(doc)
 
         sources.append({
             **meta,
-            "distance": round(dist, 4)
+            "distance": round(dist, 4),
         })
 
     context_payload = "\n\n---\n\n".join(context_blocks)
@@ -142,4 +142,3 @@ ANSWER:
         "raw_chunks": raw_chunks,
         "sources": sources,
     }
-
