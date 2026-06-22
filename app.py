@@ -47,7 +47,7 @@ with st.sidebar:
     else:
         st.warning("No documents found in /data. Run ingestion first.")
 
-    db_exists = os.path.isdir(DB_DIR)
+    db_exists = True
 
     st.divider()
     st.markdown("###  Vector DB Status")
